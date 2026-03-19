@@ -14,6 +14,8 @@ The goal is not just prediction, but business-oriented interpretation of model o
 - **Access Method:** Data was extracted from Supabase and used as a CSV file for analysis
 - **File Included:** `data/HR_Attrition_Data.csv`
 - **Records:** 1,470 employees
+- **Kaggle Notebook:** [HR-Analytics-Attrition-ML](https://www.kaggle.com/code/vikky11/hr-analytics-mlmodel)
+
 ---
 
 ## 🧠 Models Implemented
